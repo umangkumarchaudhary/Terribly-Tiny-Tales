@@ -25,10 +25,15 @@ This project is a web application that fetches a text file from a remote server,
 ## Apart from these libraries and plugins, the code also imports specific components and elements from the Chart.js library:
 
 `BarController`: It is a controller for bar charts in Chart.js.
+
 `BarElement`: It represents a single bar in a bar chart.
+
 `CategoryScale`: It is a scale type for categorical data.
+
 `LinearScale`: It is a scale type for linear data.
+
 `Title`: It represents the title of a chart.
+
 
 ## Code Explanation
 The `App function` is defined, which is the main component of the React application.
